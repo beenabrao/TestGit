@@ -1,2 +1,2 @@
-/* comment  */
+/* Comment Again  */
 create view vw_Customer as select * from SNOWFLAKE_SAMPLE_DATA.TPCH_SF1.CUSTOMER
